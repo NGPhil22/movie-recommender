@@ -1,4 +1,3 @@
-# movie-recommender
 # Movie Recommender System
 
 An exploratory data analysis and recommendation engine built on 
